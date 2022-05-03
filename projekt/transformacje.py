@@ -141,7 +141,7 @@ class Transformacje:
     
     def u2000(self, phi,lam):
         """
-        Funckja wyznaczająca współrzędne w układzie 2000.
+        Funkcja wyznaczająca współrzędne w układzie 2000.
         """
         phi = float(phi)
         lam = float(lam)
@@ -153,7 +153,7 @@ class Transformacje:
     
     def u1992(self, phi, lam):
         """
-        Funckja wyznaczająca współrzędne w układzie 1992.
+        Funkcja wyznaczająca współrzędne w układzie 1992.
         """
         phi = float(phi)
         lam = float(lam)
